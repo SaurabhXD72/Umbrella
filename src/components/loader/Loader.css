@@ -1,0 +1,15 @@
+.Loader--blue {
+    /* set fill color of the SVG to the --umbrella-blue variable */
+    fill: var(--umbrella-blue);
+}
+
+.Loader--pink {
+        /* set fill color of the SVG to the --umbrella-pink variable */
+
+    fill: var(--umbrella-pink);
+}
+
+.Loader--yellow {
+      /* set fill color of the SVG to the --umbrella-yellow variable */
+    fill: var(--umbrella-yellow);
+}
